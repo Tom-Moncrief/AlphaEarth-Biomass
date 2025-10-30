@@ -9,7 +9,7 @@ url = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/4Z1fwR
 
 # Local paths
 download_path = "dataset.tar"
-extract_path = ("C:\Users\ro22332\OneDrive - University of Bristol\MscR\VS Code\GitHub\AlphaEarth-Biomass\Example CNN/data/"
+extract_path = r"C:\Users\ro22332\OneDrive - University of Bristol\MscR\VS Code\GitHub\AlphaEarth-Biomass\Example CNN\data"
 
 # Download the file
 print("Downloading dataset...")
